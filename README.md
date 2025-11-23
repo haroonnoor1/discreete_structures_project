@@ -1,1 +1,1 @@
-# discreete_structures_project
+this is our our project of discreete structures project which is online portal for the students which 
